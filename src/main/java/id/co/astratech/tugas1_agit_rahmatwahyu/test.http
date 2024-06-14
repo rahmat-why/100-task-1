@@ -1,0 +1,7 @@
+###
+POST http://localhost:8080/kirimPesan
+Content-Type: application/json
+
+{
+  "pesan" : "PING FROM RAHMAT 0320220100"
+}
